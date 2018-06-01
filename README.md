@@ -10,7 +10,7 @@ If you want to buy, sell, see your account details a ndorder book at DDEX exchan
 
 # Prerequisite
 
-Python version > 3.x and used Web3 for signing the calls.
+Python version > 3.x and used Web3 library (pip install web3) for signing the orders.
 
 # How to run this programme
 
