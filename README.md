@@ -1,6 +1,6 @@
 # DDEX_PPI repository
 
-Buy and Sell PPI coin automatically on DDEX exchange using ddex API.
+Buy and Sell PiedPipercoin (PPI) coin on DDEX exchange using ddex API.
 
 
 # Description
