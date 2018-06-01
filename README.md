@@ -15,7 +15,7 @@ Used Web3 for signing the calls.
 
 # How to run this programme
 
-Run ddex.py using python DDEXCreateOrder.py
+Run python DDEXCreateOrder.py
 
 
 
