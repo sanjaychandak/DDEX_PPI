@@ -1,6 +1,6 @@
 # DDEX_PPI repository
 
-Buy and Sell PiedPipercoin (PPI) coin on DDEX exchange using ddex API. As we all know DDEX GUI sucks to buy and sell orders :-)
+Buy and Sell PiedPipercoin ($PPI) coin on DDEX exchange using ddex API. As we all know DDEX GUI sucks to buy and sell orders :-)
 
 
 # Description
@@ -14,7 +14,15 @@ Python version > 3.x and used Web3 for signing the calls.
 
 # How to run this programme
 
-Run python DDEXCreateOrder.py
+Set the following configuration at config.ini file
+E.g.
+amount=10
+price=0.00082126
+side=buy
+marketId=PPI-ETH
+
+and the following command on console
+$ python DDEXCreateOrder.py
 
 # Release Notes
 see changeme.md
