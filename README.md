@@ -17,6 +17,9 @@ Used Web3 for signing the calls.
 
 Run python DDEXCreateOrder.py
 
+# If you like the work then please dont forget to donate::
+ETH address: 0xC915dD06d7BbBa864E36E99592f000d956b54db7
+
 
 
 
