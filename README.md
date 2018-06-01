@@ -10,8 +10,7 @@ If you want to buy, sell and see your account details, order book at DDEX exchan
 
 # Prerequisite
 
-Python version > 3.x
-Used Web3 for signing the calls.
+Python version > 3.x and used Web3 for signing the calls.
 
 # How to run this programme
 
