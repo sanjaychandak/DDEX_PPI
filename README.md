@@ -1,6 +1,6 @@
 # DDEX_PPI repository
 
-Buy and Sell PiedPipercoin ($PPI) coin on DDEX exchange using ddex API. As we all know DDEX GUI sucks to buy and sell orders :-)
+Buy and Sell PiedPipercoin ($PPI) coin on DDEX exchange using ddex API. As we all know DDEX GUI sucks to buy and sell orders online :-). I looked at DDEX API and came up to do this simple integration who loves to make API call to buy and sell coins. At the end 'I love $PPI coin's'.
 
 
 # Description
