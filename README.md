@@ -15,14 +15,17 @@ Python version > 3.x and used Web3 library (pip install web3) for signing the or
 # How to run this programme
 
 Set the following configuration at config.ini file
+
 E.g.
-amount=10
-price=0.00082126
-side=buy
-marketId=PPI-ETH
+- amount=10
+- price=0.00082126
+- side=buy
+- marketId=PPI-ETH
 
 and the following command on console
+```
 $ python DDEXCreateOrder.py
+```
 
 # Release Notes
 see changeme.md
