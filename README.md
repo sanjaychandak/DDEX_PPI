@@ -30,7 +30,7 @@ $ python DDEXCreateOrder.py
 # Release Notes
 see changeme.md
 
-# If you like the work then please dont forget to donate::
+# Happy with the PPI Bot? Donate if you are feeling generous::
 ETH address: 0xC915dD06d7BbBa864E36E99592f000d956b54db7
 
 
